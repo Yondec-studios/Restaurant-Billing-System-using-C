@@ -405,9 +405,8 @@ void owner_details()
     }
     printf("\033[0m");
     printf("\n\n\n\n\n\n");
+    printf("\n\t\t\t\tYondec Studios");
     printf("\n\t\t    EC/2020/019 | MADURAPPERUMA M.T.S.K.");
-    printf("\n\t\t    EC/2020/014 | THILAKARATHNE T.M.S.D.");
-    printf("\n\t\t       EC/2020/008 | SENANANDA E.T.M.");
     printf("\033[36m\n\n\n\n\n\n\t");
     for (i = 0; i < 30; i++)
     {
